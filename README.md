@@ -25,15 +25,33 @@ This file contains my **verified certificates** with links related to **Data Ana
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Edge Certifications on Database Management System
+
+1. [Database (MySQL/Oracle/SQL)](https://training.edge.gov.bd/storage/certificate/student-training/certificate_69a3d47491ae44.73918074.pdf)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Google Certifications on Google Data Studio
 
 1. [Introduction to Data Studio]
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Maven Analytics Certifications on Python Foundations for Data Analytics
+
+1. [Python Foundations for Data Analytics](https://certificates.mavenanalytics.io/17ee938b-129f-4db5-bbb3-2d7ac4df9254#acc.qChuHLm1)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # LinkedIn & Microsoft Certifications on Career Essentials in Data Analysis
 
 1. [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/8780205b90ec6796e7309e63ba474b04d111742d1e4557cd760a2086a9f3c4ab?trk=share_certificate)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Olympiad Certifications
+
+1. [Astro Olympiad]
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
