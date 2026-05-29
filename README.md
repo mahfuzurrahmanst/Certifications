@@ -1,6 +1,6 @@
 # Certificates
 
-This file contains my **verified certificates** with links related to **Data Analysis and Data Science.**
+This file contains my **verified certificates** with links related to **Data Analysis and Data Science and Others.**
 
 # Datacamp Certifications on Python
 
